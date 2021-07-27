@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, I'm snOg.
+Hi, I'm sn0g.
